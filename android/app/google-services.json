@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270569521129",
+    "project_id": "book-sharing-app-bbe5f",
+    "storage_bucket": "book-sharing-app-bbe5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270569521129:android:eed8188a83a2bfec781578",
+        "android_client_info": {
+          "package_name": "org.camsust.book_sharing_app.book_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270569521129-b7e7gbq64fu8398jq0r4g3fleou5fb0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.camsust.book_sharing_app.book_sharing_app",
+            "certificate_hash": "316d2e4674bab126e142d7c77f989037628c8ac4"
+          }
+        },
+        {
+          "client_id": "270569521129-fkf00dmmb8perruf96ck89o0vq1nl9h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXhpuFSIIYOGvDNTbTvJ4vQQerRMyfBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270569521129-fkf00dmmb8perruf96ck89o0vq1nl9h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
